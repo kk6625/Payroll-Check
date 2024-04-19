@@ -21,9 +21,9 @@ A unique title is required.
 
 ## Links
 
-[Website] URL :
+[Website] URL : https://kk6625.github.io/Payroll-Check/
 
-[Solution] URL :
+[Solution] URL : https://github.com/kk6625/Payroll-Check
 
 ## Author
  Made by Andy Choi
